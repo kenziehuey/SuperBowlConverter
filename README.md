@@ -1,7 +1,7 @@
 # SuperBowlConverter
 
 
-This C++ program converts a user-input year of a Super Bowl game into its corresponding Super Bowl number written in Roman numerals.
+A C++ program that converts a user-input year of a Super Bowl game into its corresponding Super Bowl number written in Roman numerals.
 
 ##  Features
 - Converts a year (1967–5965) to the correct Super Bowl number
